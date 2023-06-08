@@ -1,0 +1,6 @@
+#Ignorar carpeta node_modules
+node_modules
+
+#Ignorar imagenes de mokepones
+/assets/.webp
+/assets/.png
